@@ -112,7 +112,7 @@
 * Бэкенд:
     - Язык Python
     - Фреймворк FastAPI
-    - БД SQLite
+    - БД PostgreSQL
     - SQLAlchemy ORM
     - Alembic для миграций
 * Фронтенд:
